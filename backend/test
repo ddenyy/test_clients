@@ -1,0 +1,15 @@
+{
+    "name": "admin",
+    "surname": "admin",
+    "patronymic": "admin",
+    "email": "admin@admin.ru",
+    "password": "admin"
+}
+
+{
+    "name": "admin2",
+    "surname": "admin2",
+    "patronymic": "admin2",
+    "email": "admin2@admin2.ru",
+    "password": "admin2"
+}
